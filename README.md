@@ -22,7 +22,7 @@ To view the nft try the  following steps:
 
 ![image](https://user-images.githubusercontent.com/55515456/149666233-b65d54e2-2c60-4583-b223-a7fa2c10de04.png)
 
-## The image property contains the link to the image : https://gateway.pinata.cloud/ipfs/QmdKFqq3YJAS1SVVm2mKNpXg9DhtL3uwKAU2igLFeaZozL 
+## The image property contains the [link to the image](https://gateway.pinata.cloud/ipfs/QmdKFqq3YJAS1SVVm2mKNpXg9DhtL3uwKAU2igLFeaZozL)
 
 ## We can add the nft to our metamask wallet and it will show in the NFTs section
 ![image](https://user-images.githubusercontent.com/55515456/149666488-53e342fd-a0f6-4299-a97e-8b0c7ce666d2.png)
